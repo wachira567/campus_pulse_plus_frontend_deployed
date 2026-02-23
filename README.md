@@ -110,7 +110,7 @@ This is the URL for the backend repo: https://github.com/HidayaMohamed/campus_pu
 
 ## Live Demo
 
-- Frontend: https://campuspulseplusfrontend.vercel.app
+- Frontend: https://campuspulseplusfrontenddeployed.vercel.app/
 - Backend API: https://campus-pulse-plus-backend.onrender.com
 
 
